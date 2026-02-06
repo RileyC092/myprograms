@@ -35,3 +35,7 @@ num2 = int(input("Enter num2: "))
 print(num1 + num2)
 
 # int() is a composite of both so in this case it takes the strings and converts them to integers which is why we get 3 now instead of 21
+
+# git add (name)
+# git commit -m "some message"
+# git push
